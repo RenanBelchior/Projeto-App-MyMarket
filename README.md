@@ -1,6 +1,7 @@
 **<h1>Projeto final da aula de Programação Para Dispositivos Móveis em Android**
 <h3> Participantes: Maxmilhan de Aguiar Barros, Renan dos Santos Belchior, Victor Hugo de Souza Paranhos.
 
+<h2> Ferramentas: React Native, Node.js, SQLite, Android Studio. 
 
 <img src="/ImagensDoApp/TELA_LOGIN.png"> <img src="ImagensDoApp/TELA_CADASTRO.png">
 <img src="ImagensDoApp/MENU_REGISTRO_PRODUTOS.png"> <img src="ImagensDoApp/TELA_CADASTRAR_PRODUTO.png">
